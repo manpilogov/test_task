@@ -1,0 +1,6 @@
+C:\Projects\Trash\CurrencyProcessor\Contracts\bin\Debug\Contracts.dll
+C:\Projects\Trash\CurrencyProcessor\Contracts\bin\Debug\Contracts.pdb
+C:\Projects\Trash\CurrencyProcessor\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+C:\Projects\Trash\CurrencyProcessor\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\Trash\CurrencyProcessor\Contracts\obj\Debug\Contracts.dll
+C:\Projects\Trash\CurrencyProcessor\Contracts\obj\Debug\Contracts.pdb

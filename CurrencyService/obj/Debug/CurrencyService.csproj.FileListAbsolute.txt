@@ -1,0 +1,11 @@
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\CurrencyService.dll
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\CurrencyService.pdb
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\Contracts.dll
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\DataProvider.dll
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\Contracts.pdb
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\bin\Debug\DataProvider.pdb
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\obj\Debug\CurrencyService.csprojAssemblyReference.cache
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\obj\Debug\CurrencyService.csproj.CoreCompileInputs.cache
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\obj\Debug\CurrencyService.csproj.CopyComplete
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\obj\Debug\CurrencyService.dll
+C:\Projects\Trash\CurrencyProcessor\CurrencyService\obj\Debug\CurrencyService.pdb

@@ -1,0 +1,9 @@
+C:\Projects\Trash\CurrencyProcessor\DataProvider\bin\Debug\DataProvider.dll
+C:\Projects\Trash\CurrencyProcessor\DataProvider\bin\Debug\DataProvider.pdb
+C:\Projects\Trash\CurrencyProcessor\DataProvider\bin\Debug\Contracts.dll
+C:\Projects\Trash\CurrencyProcessor\DataProvider\bin\Debug\Contracts.pdb
+C:\Projects\Trash\CurrencyProcessor\DataProvider\obj\Debug\DataProvider.csprojAssemblyReference.cache
+C:\Projects\Trash\CurrencyProcessor\DataProvider\obj\Debug\DataProvider.csproj.CoreCompileInputs.cache
+C:\Projects\Trash\CurrencyProcessor\DataProvider\obj\Debug\DataProvider.csproj.CopyComplete
+C:\Projects\Trash\CurrencyProcessor\DataProvider\obj\Debug\DataProvider.dll
+C:\Projects\Trash\CurrencyProcessor\DataProvider\obj\Debug\DataProvider.pdb

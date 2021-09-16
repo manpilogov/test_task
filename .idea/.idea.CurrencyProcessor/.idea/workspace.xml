@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18e75a69-a4e4-4a7f-bd4e-b8e8f9482bcd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CurrencyService/Models/ConvertResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/f1/571c51d0/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyService/Models/ConvertRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyService/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CurrencyService/CurrencyService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/DataProvider/Class1.cs" />
+      <option value="$PROJECT_DIR$/CurrencyModels/Tests.cs" />
+      <option value="$PROJECT_DIR$/CurrencyModels/Class1.cs" />
+      <option value="$PROJECT_DIR$/Contracts/Class1.cs" />
+      <option value="$PROJECT_DIR$/DataProvider/RateRequest.cs" />
+      <option value="$PROJECT_DIR$/Contracts/ICurrency.cs" />
+      <option value="$PROJECT_DIR$/CurencyModule/Models/ConvertRequest.cs" />
+      <option value="$PROJECT_DIR$/DataProvider/IRateProvider.cs" />
+      <option value="$PROJECT_DIR$/CurencyModule/Models/ConvertResponse.cs" />
+      <option value="$PROJECT_DIR$/CurencyModule/CurrencyProcessor.cs" />
+      <option value="$PROJECT_DIR$/Contracts/BaseResponse.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/ConvertResponse.cs" />
+      <option value="$PROJECT_DIR$/DataProvider/Models/RateResponse.cs" />
+      <option value="$PROJECT_DIR$/Contracts/Currency.cs" />
+      <option value="$PROJECT_DIR$/DataProvider/Models/RateRequest.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/ConvertRequest.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/AdditionalResponse.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/CurrencyProcessor.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/SubtractionRequest.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/SubtractionResponse.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/AdditionRequest.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/Models/AdditionResponse.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/ICurrencyService.cs" />
+      <option value="$PROJECT_DIR$/DataProvider/RateProvider.cs" />
+      <option value="$PROJECT_DIR$/CurrencyService/CurrencyService.cs" />
+      <option value="$PROJECT_DIR$/CurrencyModuleTests/Tests.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1yECk70DRarp1dsMd2sSCUqEW6p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="4c192854-9e31-44a1-be5a-e4f3db7f10fb" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e75a69-a4e4-4a7f-bd4e-b8e8f9482bcd" name="Default Changelist" comment="" />
+      <created>1631807502743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631807502743</updated>
+      <workItem from="1631807506795" duration="12538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CurrencyModuleTests/Tests.cs</url>
+          <line>40</line>
+          <properties documentPath="C:\Projects\Trash\CurrencyProcessor\CurrencyModuleTests\Tests.cs" initialLine="40" containingFunctionPresentation="method 'TestConvert_Success'">
+            <startOffsets>
+              <option value="940" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1037" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DataProvider/RateProvider.cs</url>
+          <line>32</line>
+          <properties documentPath="C:\Projects\Trash\CurrencyProcessor\DataProvider\RateProvider.cs" initialLine="32" containingFunctionPresentation="method 'GetRate'">
+            <startOffsets>
+              <option value="699" />
+            </startOffsets>
+            <endOffsets>
+              <option value="747" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CurrencyModuleTests/Tests.cs</url>
+          <line>62</line>
+          <properties documentPath="C:\Projects\Trash\CurrencyProcessor\CurrencyModuleTests\Tests.cs" initialLine="62" containingFunctionPresentation="method 'TestConvert_Overflow'">
+            <startOffsets>
+              <option value="1958" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2013" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

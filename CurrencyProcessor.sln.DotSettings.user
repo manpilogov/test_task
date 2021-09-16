@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ad94452_002D7207_002D4e29_002Dbb79_002D6ffa8258c0e4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAddition_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests.TestAddition_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c192854_002D9e31_002D44a1_002Dbe5a_002De4f3db7f10fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestConvert" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests.TestConvert_NoSuchCurrency&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests.TestAddition_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ff95ace_002D0f17_002D4c81_002D84b1_002D18f7e5b24a8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAddition_Success #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests.TestAddition_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b28597e_002D9110_002D48b7_002D96ce_002D0b88e3953b6a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAddition_Success #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests.TestAddition_Success&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7e34408_002D25db_002D4b7d_002Da399_002D03d81873b62f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAddition_Success #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::808B8077-EF68-44E0-99AB-629C50F105F7::.NETFramework,Version=v4.8::CurrencyModuleTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
